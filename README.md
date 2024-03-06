@@ -6,7 +6,7 @@
 ### <div align="center">I'm Saul, a software engineer student from Guatemala.</div>  
   
 
-- 🌱 I’m currently learning React, Kubernetes & Go  
+- 🌱 I’m currently learning Flutter and Dart  
   
 
 - ❓ Ask me about previous courses such as Data Structures, Compilers (1 & 2) & Computers architecture  
