@@ -79,7 +79,7 @@
   </div>  
   <br/>
   <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulB10&theme=tokyonight&layout=compact" alt="jaredosuna" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulB10&theme=tokyonight&layout=compact" alt="saulb10" />
   </div>
 </div>
 
